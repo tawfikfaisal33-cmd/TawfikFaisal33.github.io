@@ -1,0 +1,52 @@
+body{
+    background: #333;
+}
+ h1{   color: beige;
+    margin-left: 2;
+    border-left: solid goldenrod 10px;
+    font-size:  60px;
+}
+p{
+    color: beige;
+    font-size: 30px;
+}
+.qustion{
+    color:burlywood;
+    margin: 0;
+    border: 0;
+    font-size: 30px;
+}
+.bold{
+    color: burlywood;
+}
+.navBar{
+    display: inline;
+    color: burlywood;
+    padding: 0;
+    text-decoration: none;
+    font-size: 30px;
+}
+.navBar li{
+    display: inline;
+    color: burlywood;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+img{
+    margin: 0px;
+    border: 0px;
+}
+#text{
+    margin: 0px;
+    border: 0px;
+    align-items: center;
+}
+#step{
+    color: goldenrod;
+    display: inline;
+    font-size: 30px;
+}
+#step li{
+    display: inline;
+}
